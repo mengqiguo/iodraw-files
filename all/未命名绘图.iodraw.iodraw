@@ -124,6 +124,9 @@
         <mxCell id="2zAw07tLLCjVrzlMsrer-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;自车轨迹+自车跟踪+导航指令=规划查询Q&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2zAw07tLLCjVrzlMsrer-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;自车轨迹+自车跟踪+导航指令=规划查询Q&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="666" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
