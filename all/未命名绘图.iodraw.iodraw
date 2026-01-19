@@ -73,7 +73,7 @@
         </UserObject>
         <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&#39;Times New Roman&#39;;color:rgb(0,0,0);font-size:12.0000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UniAD\projects\mmdet3d_plugin\uniad\dense_heads\planning_head.py-&amp;gt;forward&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;函数&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;color:rgb(0,0,0);font-size:12.0000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UniAD\projects\mmdet3d_plugin\uniad\dense_heads\planning_head.py-&amp;gt;forward&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;函数&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" id="H9LpD67TrQ5rv2mn7AtS-31">
           <mxCell style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-            <mxGeometry x="712" y="476" width="290" height="90" as="geometry" />
+            <mxGeometry x="684" y="476" width="290" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2zAw07tLLCjVrzlMsrer-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:华文琥珀;&amp;lt;br/&amp;gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;plan_query = torch.cat([sdc_traj_query, sdc_track_query, navi_embed], dim=-1)&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:华文琥珀;&amp;lt;br/&amp;gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -144,6 +144,9 @@
             <mxPoint x="580" y="1070" as="sourcePoint" />
             <mxPoint x="630" y="1020" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2zAw07tLLCjVrzlMsrer-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9LpD67TrQ5rv2mn7AtS-25" target="H9LpD67TrQ5rv2mn7AtS-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
